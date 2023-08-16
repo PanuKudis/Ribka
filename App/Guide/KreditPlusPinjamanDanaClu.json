@@ -45,7 +45,7 @@
       "id": 1,
       "name_category": "KreditPlus",
       "title": "Tentang Kredit Plus - Pinjaman Dana",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Penjelasan Tentang Pinjaman Online Kredit Plus - Pinjaman Dana",
       "link": "file:///android_asset/guide/kreditplus1.html"
     },
@@ -53,7 +53,7 @@
       "id": 2,
       "name_category": "KreditPlus",
       "title": "Proses Pencairan Kredit Plus - Pinjaman Dana",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Penjelasan Proses Pencairan Pinjaman Online",
       "link": "file:///android_asset/guide/kreditplus2.html"
     },
@@ -61,7 +61,7 @@
       "id": 3,
       "name_category": "KreditPlus",
       "title": "Apakah Pinjaman Online Aman",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Mengecek Pinjaman Online Terdaftar OJK",
       "link": "file:///android_asset/guide/kreditplus3.html"
       }, 
@@ -69,7 +69,7 @@
       "id":4,
       "name_category": "KreditPlus",
       "title": "Syarat Pinjaman Online Kredit Plus - Pinjaman Dana",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Syarat Dan Ketentuan Agar Pinjaman Online Cepat Cair",
       "link": "file:///android_asset/guide/kreditplus4.html"
     },
@@ -77,7 +77,7 @@
       "id": 5,
       "name_category": "KreditPlus",
       "title": "Cara Menghitung Suku Bunga Pinjaman Online",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Bagaimana Cara Menghitung Bunga Pinjaman Online",
       "link": "file:///android_asset/guide/kreditplus5.html"
     },
@@ -85,7 +85,7 @@
       "id": 5,
       "name_category": "KreditPlus",
       "title": "Berbagai Keuntungan Pinjaman Online",
-      "image": "file:///android_asset/image/bg.png",
+      "image": "file:///android_asset/image/home.png",
       "description": "Keuntungan Yang Didapatkan Di Pinjaman Online",
       "link": "file:///android_asset/guide/kreditplus6.html"
     }
