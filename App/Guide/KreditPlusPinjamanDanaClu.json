@@ -43,7 +43,7 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Aman Rupiah",
+      "name_category": "KreditPlus",
       "title": "Apa Itu Pinjam Duit - KTA Cepat",
       "image": "file:///android_asset/image/bg.png",
       "description": "Sekilas Tentang Pinjaman Online Pinjam Duit - KTA Cepat",
@@ -51,7 +51,7 @@
     },
       {
       "id": 2,
-      "name_category": "Aman Rupiah",
+      "name_category": "KreditPlus",
       "title": "Pencairan Pinjaman Online Pinjam Duit - KTA Cepat",
       "image": "file:///android_asset/image/bg.png",
       "description": "Berapa Lama Proses Pencairan Pinjaman Pinjam Duit - KTA Cepat",
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "name_category": "Aman Rupiah",
+      "name_category": "KreditPlus",
       "title": "Apakah Pinjaman Online Di Pinjam Duit - KTA Cepat",
       "image": "file:///android_asset/image/bg.png",
       "description": "Apakah Pinjaman Online Terdaftar OJK",
@@ -67,7 +67,7 @@
       }, 
     {
       "id":4,
-      "name_category": "Aman Rupiah",
+      "name_category": "KreditPlus",
       "title": "Syarat Dan Ketentuan Pinjaman Di Pinjam Duit - KTA Cepat",
       "image": "file:///android_asset/image/bg.png",
       "description": "Syarat Dan Ketentuan Agar Pinjaman Online Cepat Cair",
@@ -75,7 +75,7 @@
     },
     {
       "id": 5,
-      "name_category": "Aman Rupiah",
+      "name_category": "KreditPlus",
       "title": "Cara Menghitung Bunga Pinjaman Di Pinjam Duit - KTA Cepat",
       "image": "file:///android_asset/image/bg.png",
       "description": "Penjelasan Cara Menghitung Bunga Pinjaman Di Pinjam Duit - KTA Cepat",
